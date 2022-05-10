@@ -1,2 +1,2 @@
 # fullstackdev
-Repositorio de pruebas programa full stack developer ITBANK
+Repositorio de pruebas programa Full Stack Developer ITBANK
